@@ -8,7 +8,7 @@
 
 ## Demo
 
-[Demo][demo]
+[Demo](https://aquaaerobicsystem.github.io/react-planner/)
 
 [![react-planner][preview_image]][demo]
 
